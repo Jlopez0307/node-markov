@@ -1,0 +1,19 @@
+{
+  "name": "markov",
+  "version": "1.0.0",
+  "description": "Algorithm for generating realistic machine-made text from an original source text",
+  "main": "makeText.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jlopez0307/node-markov.git"
+  },
+  "author": "jon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jlopez0307/node-markov/issues"
+  },
+  "homepage": "https://github.com/Jlopez0307/node-markov#readme"
+}
